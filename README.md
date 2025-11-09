@@ -49,6 +49,7 @@ Steps:
  - **[Sigma2KQL Converter](/writeups/web/Sigma2KQL%20Converter)**
 	 - [Iku-toppene](/writeups/web/Sigma2KQL%20Converter/Iku-toppene)  
  - **[CloudNotes](/writeups/web/CloudNotes)**
+	 - [big](/writeups/web/CloudNotes/big)  
  - **[shop-7](/writeups/web/shop-7)**
  - **[Spin-For-Flag](/writeups/web/Spin-For-Flag)**
 	 - [sifi](/writeups/web/Spin-For-Flag/sifi)  
