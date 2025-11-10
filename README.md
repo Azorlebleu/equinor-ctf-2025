@@ -134,6 +134,7 @@ Steps:
 ### forensics
  - **[Home Intrusion 2](/writeups/forensics/Home%20Intrusion%202)**
  - **[Insecure Exfil](/writeups/forensics/Insecure%20Exfil)**
+	 - [Trånn Jånn](/writeups/forensics/Insecure%20Exfil/Trånn%20Jånn)  
 	 - [bwnfools](/writeups/forensics/Insecure%20Exfil/bwnfools)  
  - **[Censoring](/writeups/forensics/Censoring)**
 	 - [abyss](/writeups/forensics/Censoring/abyss)  
